@@ -1,12 +1,12 @@
 # 🛒 Shopper Spectrum – Customer Segmentation & Product Recommendation
 
-## 📌 Project Overview
+##  Project Overview
 
 Shopper Spectrum is a Machine Learning project that analyzes customer purchasing behavior using RFM Analysis and K-Means Clustering. It also recommends similar products using Item-Based Collaborative Filtering. An interactive Streamlit application allows users to predict customer segments and receive product recommendations.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Segment customers based on purchasing behavior.
 - Identify high-value customers.
@@ -15,7 +15,7 @@ Shopper Spectrum is a Machine Learning project that analyzes customer purchasing
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -27,7 +27,7 @@ Shopper Spectrum is a Machine Learning project that analyzes customer purchasing
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Shopper-Spectrum-Customer-Segmentation
@@ -42,7 +42,7 @@ Shopper-Spectrum-Customer-Segmentation
 
 ---
 
-## 📊 Machine Learning Techniques
+##  Machine Learning Techniques
 
 - Data Cleaning
 - Exploratory Data Analysis
@@ -54,7 +54,7 @@ Shopper-Spectrum-Customer-Segmentation
 
 ---
 
-## 🚀 Streamlit Application
+## Streamlit Application
 
 The Streamlit application allows users to:
 
@@ -63,23 +63,26 @@ The Streamlit application allows users to:
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Home Screen
 
-(Add Home.png)
+
+<img width="1344" height="631" alt="Screenshot 2026-07-15 195112" src="https://github.com/user-attachments/assets/e6476aef-b67c-4e94-82ea-6ff8b0b1c7fb" />
 
 ### Customer Prediction
 
-(Add Customer_Segment.png)
+
+<img width="1279" height="356" alt="Screenshot 2026-07-15 195135" src="https://github.com/user-attachments/assets/3d2ffaef-821a-4840-9699-06fc81439d82" />
 
 ### Product Recommendation
 
-(Add Recommendation.png)
+
+<img width="1302" height="363" alt="Screenshot 2026-07-15 195214" src="https://github.com/user-attachments/assets/3f863a6e-31e6-4c50-85c1-7c08667b6f45" />
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Real-time recommendations
 - More customer segments
@@ -88,6 +91,6 @@ The Streamlit application allows users to:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Lokesh Rawal
